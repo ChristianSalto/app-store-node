@@ -1,24 +1,29 @@
 # APP-STORE-NODE
 
-API Rest basica de productos donde podremos añadir producto, coseguir todos los productos y hacer una busqueda de un producto por su nombre.
+## Install
 
-## Instalación
-
-1. Clona este repositorio en tu máquina local.
-2. Ve al directorio del proyecto:  
-
-```bash
-cd app-store-node
+```shell
+npm install
 ```
 
-3. Instala las dependencias del proyecto:
+<span style="color:red">Important !!!</span> -> **You must copy .env.example to .env and adapt your configuration to the project**
 
-### `npm install`
+```shell
+cp .env.example .env
+```
 
+To initialize the database you can run:
 
-## Uso
+```shell
+npm run install-db
+```
 
-1. Inicia el servidor:
+## Run the app
 
-### `npm start`
+Start the api:
+
+```shell
+npm start
+```
+
 

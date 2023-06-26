@@ -1,0 +1,38 @@
+[
+    {
+        "img": "ps5.jpg",
+        "name": "PlayStation 5",
+        "description": "PlayStation 5 (プレイステーション 5 Pureisutēshon Faibu?, abreviada como PS5) es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment",
+        "price": 500
+    },
+    {
+        "img": "camiseta.jpg",
+        "name": "Camiseta Real Madrid",
+        "description": "Nueva camiseta del Real Madrid edicion 2023",
+        "price": 100
+    },
+    {
+        "img": "renault.jpg",
+        "name": "Renault Clio Sport Tourer",
+        "description": "Dotado de un asiento trasero abatible 1/3 - 2/3 y de un asiento delantero también abatible a modo de bandeja, el Renault Clio Sport Tourer te permite transportar objetos voluminosos de hasta 2,48 m de longitud. Nunca habías viajado con tablas de surf o muebles de una forma tan cómoda",
+        "price": 30000
+    },
+    {
+        "img": "mac.jpg",
+        "name": "MacBook",
+        "description": "MacBook es una familia de laptops desarrollados por Apple que tienen como mercado objetivo los usuarios básicos, de hogar y las pequeñas empresas.",
+        "price": 1000
+    },
+    {
+        "img": "monitor.jpg",
+        "name": "HP M24fwa 23.8 IPS FullHD 75Hz FreeSync",
+        "description": "Disfruta al máximo de este monitor ultrafino HP M24fwa con la máxima calidad de imagen, audio integrado y HP Eye Ease con tecnología con certificación Eyesafe®, con un diseño que te ofrece un nuevo concepto de comodidad, bienestar y sostenibilidad. Juega, trabaja o simplemente disfruta gracias a esta renovación del concepto de alta definición",
+        "price": 149
+    },
+    {
+        "img": "catan.jpg",
+        "name": "Catán",
+        "description": "Los colonos de Catán (en alemán Die Siedler von Catan), Los descubridores de Catán, o simplemente Catán, es un juego de mesa de colocación de trabajadores multijugador inventado por Klaus Teuber",
+        "price": 30
+    }
+]
